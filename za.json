@@ -22,11 +22,23 @@
 {"number":"16","name":"Radio Rosestad (Bloemfontein)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/rosestad-bloemfontein.png","streamUrl":"http://196.250.216.30:8000/listen.pls?sid=1","yourmuzeId":"0","state":"1"},
 {"number":"17","name":"East Coast Radio (Durban)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/coast-durban.png","streamUrl":"https://edge.iono.fm/xice/ecr_live_medium.aac","yourmuzeId":"0","state":"1"},
 {"number":"18","name":"Gagasi FM (Durban)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/gagasi.png","streamUrl":"https://edge.iono.fm/xice/71_medium.mp3","yourmuzeId":"0","state":"1"},
-{"number":"19","name":"Motsweding (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/motsweding-johannesburg.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/97f660b5d3c949e094ca1d8c983551d2/playlist.m3u8","yourmuzeId":"0","state":"1"}
+{"number":"19","name":"Motsweding (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/motsweding-johannesburg.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/97f660b5d3c949e094ca1d8c983551d2/playlist.m3u8","yourmuzeId":"0","state":"1"},
  
   
   
-  
+ {"number":"20","name":"Classic FM (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/classic.png","streamUrl":"https://edge.iono.fm/xice/49_medium.aac","yourmuzeId":"0","state":"1"},
+{"number":"21","name":"Kaya","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/kaya.png","streamUrl":"https://edge.iono.fm/xice/82_high.aac","yourmuzeId":"0","state":"1"},
+{"number":"22","name":"Thobela FM (Pretoria)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/thobela.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/58024f759ef343e5b43f99b0c55d84aa/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"23","name":"Good Hope (Cape Town)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/goodhope.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/1e60ff4028fe4164a3e43071da9fb86f/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"24","name":"YFM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/yfm.png","streamUrl":"https://streaming.fabrik.fm/yfm/echocast/audio/index.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"25","name":"Radio Tygerberg (Cape Town)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/tygerberg-cape-town.png","streamUrl":"http://zas6.ndx.co.za:8007/listen.pls?sid=1","yourmuzeId":"0","state":"1"},
+{"number":"26","name":"Radio 2000","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/radio-2000.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/a3d1e938cf9c49db874906a8138ecf10/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"27","name":"Radio 786 (Cape Town)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/786-cape-town.png","streamUrl":"http://stream.krypton.co.za:8040/stream/1/","yourmuzeId":"0","state":"1"},
+{"number":"28","name":"Lotus FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/lotus.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/9d1c7019ff894e5191b954eff03d7c77/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"29","name":"Lesedi (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/lesedi.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/273707ee34a94d87a51c4785b48256a5/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"30","name":"Bush Radio (Cape Town)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/bush.png","streamUrl":"http://85.25.164.35/;","yourmuzeId":"0","state":"1"}
+
+ 
   
 ],
 "country":{"id":"60","name":"oman","logo":"..\/..\/_upload\/_flags\/oman.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
