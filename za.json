@@ -1,6 +1,8 @@
 {"success":true,"message":"","radios":
 [
 
+
+
 {"number":"1","name":"Highveld Stereo FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/highveld.png","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/FM947_SC","yourmuzeId":"0","state":"1"},
 {"number":"2","name":"Jacaranda FM (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/jacaranda.png","streamUrl":"https://edge.iono.fm/xice/jacarandafm_live_high.mp3","yourmuzeId":"0","state":"1"},
 {"number":"3","name":"702 Talk Radio","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/talk-702.png","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_SC","yourmuzeId":"0","state":"1"},
@@ -11,7 +13,39 @@
 {"number":"8","name":"Mix FM (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/mix.png","streamUrl":"http://50.7.77.114:8007/listen.pls","yourmuzeId":"0","state":"1"},
 {"number":"9","name":"The Voice of the Cape FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/voc.png","streamUrl":"https://edge.iono.fm/xice/voc_live_high.mp3","yourmuzeId":"0","state":"1"},
 {"number":"10","name":"Radio Islam","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/islam.png","streamUrl":"http://listen.radioislam.co.za:8080/radioislam.mp3.m3u","yourmuzeId":"0","state":"1"},
-{"number":"11","name":"Groot FM (Pretoria)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/groot-pretoria.png","streamUrl":"http://zas6.ndx.co.za:11000/stream/1/","yourmuzeId":"0","state":"1"}
+{"number":"11","name":"Groot FM (Pretoria)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/groot-pretoria.png","streamUrl":"http://zas6.ndx.co.za:11000/stream/1/","yourmuzeId":"0","state":"1"},
+{"number":"12","name":"Heart (Cape Town)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/heart.png","streamUrl":"https://albert.antfarm.co.za/heartfm/heartfm.stream/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"13","name":"CCFM (Cape Town)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/ccfm.png","streamUrl":"https://edge.iono.fm/xice/69_medium.aac","yourmuzeId":"0","state":"1"},
+{"number":"14","name":"Cape Talk","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/cape-talk.png","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/CAPE_TALK_SC","yourmuzeId":"0","state":"1"},
+{"number":"15","name":"Pretoria FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/pretoria-fm.png","streamUrl":"http://capeant.antfarm.co.za:8000/ptafm","yourmuzeId":"0","state":"1"},
+{"number":"16","name":"Radio Rosestad (Bloemfontein)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/rosestad-bloemfontein.png","streamUrl":"http://196.250.216.30:8000/listen.pls?sid=1","yourmuzeId":"0","state":"1"},
+{"number":"17","name":"East Coast Radio (Durban)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/coast-durban.png","streamUrl":"https://edge.iono.fm/xice/ecr_live_medium.aac","yourmuzeId":"0","state":"1"},
+{"number":"18","name":"Gagasi FM (Durban)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/gagasi.png","streamUrl":"https://edge.iono.fm/xice/71_medium.mp3","yourmuzeId":"0","state":"1"},
+{"number":"19","name":"Motsweding (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/motsweding-johannesburg.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/97f660b5d3c949e094ca1d8c983551d2/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"20","name":"Classic FM (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/classic.png","streamUrl":"https://edge.iono.fm/xice/49_medium.aac","yourmuzeId":"0","state":"1"},
+{"number":"21","name":"Kaya","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/kaya.png","streamUrl":"https://edge.iono.fm/xice/82_high.aac","yourmuzeId":"0","state":"1"},
+{"number":"22","name":"Thobela FM (Pretoria)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/thobela.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/58024f759ef343e5b43f99b0c55d84aa/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"23","name":"Good Hope (Cape Town)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/goodhope.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/1e60ff4028fe4164a3e43071da9fb86f/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"24","name":"YFM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/yfm.png","streamUrl":"https://streaming.fabrik.fm/yfm/echocast/audio/index.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"25","name":"Radio Tygerberg (Cape Town)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/tygerberg-cape-town.png","streamUrl":"http://zas6.ndx.co.za:8007/listen.pls?sid=1","yourmuzeId":"0","state":"1"},
+{"number":"26","name":"Radio 2000","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/radio-2000.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/a3d1e938cf9c49db874906a8138ecf10/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"27","name":"Radio 786 (Cape Town)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/786-cape-town.png","streamUrl":"http://stream.krypton.co.za:8040/stream/1/","yourmuzeId":"0","state":"1"},
+{"number":"28","name":"Lotus FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/lotus.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/9d1c7019ff894e5191b954eff03d7c77/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"29","name":"Lesedi (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/lesedi.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/273707ee34a94d87a51c4785b48256a5/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"30","name":"Bush Radio (Cape Town)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/bush.png","streamUrl":"http://85.25.164.35/;","yourmuzeId":"0","state":"1"},
+{"number":"31","name":"Algoa FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/algoa.png","streamUrl":"https://edge.iono.fm/xice/54_medium.aac.m3u","yourmuzeId":"0","state":"1"},
+{"number":"32","name":"Ligwalagwala (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/ligwalagwala.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/568fc5738cce4434aa6db69e928084be/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"33","name":"OFM 94 97","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/ofm.png","streamUrl":"https://edge.iono.fm/xice/ofm_live_high.aac","yourmuzeId":"0","state":"1"},
+{"number":"34","name":"Ukhozi FM (Durban)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/ukhozi-durban.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/c04e80a90111477a88867b697e2203c0/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"35","name":"Munghana Lonene FM (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/munghana-johannesburg.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/14e03c487fa44d3686ff65f483373d62/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"36","name":"MFM (Cape Town)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/mfm.png","streamUrl":"https://edge.iono.fm/xice/46_medium.mp3","yourmuzeId":"0","state":"1"},
+{"number":"37","name":"Radio Veritas","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/veritas.png","streamUrl":"http://zas5.ndx.co.za:9618/stream/1/","yourmuzeId":"0","state":"1"},
+{"number":"38","name":"Radio Pulpit Kansel (Pretoria)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/kansel.png","streamUrl":"http://capeant.antfarm.co.za:8000/RadioPulpit","yourmuzeId":"0","state":"1"},
+{"number":"39","name":"Fine Music Radio (Cape Town)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/fmr.png","streamUrl":"https://edge.iono.fm/xice/fmr_live_medium.mp3","yourmuzeId":"0","state":"1"},
+{"number":"40","name":"Chai FM (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/chai.png","streamUrl":"http://zas2.ndx.co.za/proxy/chaifm?mp=/stream&1528804841267","yourmuzeId":"0","state":"1"}
+{"number":"41","name":"Bok Radio (Cape Town)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/bok-cape-town.png","streamUrl":"https://bokradio.highquality.radiostream.co.za/","yourmuzeId":"0","state":"1"},
+{"number":"42","name":"Vuma FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/vuma.png","streamUrl":"https://edge.iono.fm/xice/77_medium.aac?p=embed","yourmuzeId":"0","state":"1"}
+
 
 ],
 "country":{"id":"60","name":"oman","logo":"..\/..\/_upload\/_flags\/oman.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
