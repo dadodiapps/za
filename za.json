@@ -1,14 +1,17 @@
 {"success":true,"message":"","radios":
 [
 
-{"number":"1","name":"إذاعة موريتانيا","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/rm/master/radiomauritanie.png","streamUrl":"https://radiomauritaniechaine1.ice.infomaniak.ch/radiomauritaniechaine1.aac","yourmuzeId":"0","state":"1"},
-{"number":"2","name":"راديو قرآن الكريم موريتانيا","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/rm/master/radiocoran.png","streamUrl":"http://radiocoran.ice.infomaniak.ch/radiocoran.aac","yourmuzeId":"0","state":"1"},
-{"number":"3","name":"راديو RFI","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/rm/master/rfi.png","streamUrl":"http://live02.rfi.fr/rfiafrique-96k.mp3","yourmuzeId":"0","state":"1"},
-{"number":"4","name":"راديو RAPRIM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/rm/master/RapRim.png","streamUrl":"http://live02.rfi.fr/rfiafrique-96k.mp3","yourmuzeId":"0","state":"1"},
-{"number":"5","name":"راديو بي بي سي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/rm/master/bbc.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},
-{"number":"6","name":"راديو مونتيكارلو","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/rm/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
-{"number":"7","name":"راديو ساوا","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/rm/master/sawa.png","streamUrl":"","yourmuzeId":"0","state":"1"}
-
+{"number":"1","name":"Highveld Stereo FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/highveld.png","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/FM947_SC","yourmuzeId":"0","state":"1"},
+{"number":"2","name":"Jacaranda FM (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/jacaranda.png","streamUrl":"https://edge.iono.fm/xice/jacarandafm_live_high.mp3","yourmuzeId":"0","state":"1"},
+{"number":"3","name":"702 Talk Radio","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/talk-702.png","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_SC","yourmuzeId":"0","state":"1"},
+{"number":"4","name":"Radio 5 FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/5fm.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/9f38102608b345dcb53c1db0bd57f2d3/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"5","name":"KFM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/kfm.png","streamUrl":"https://playerservices.streamtheworld.com/pls/KFM.pls","yourmuzeId":"0","state":"1"},
+{"number":"6","name":"Metro FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/metro.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/30acd2358bc64be49d563b72f0d1d121/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"7","name":"RSG 100-104 FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/rsg.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/b08ea007857740318ea034f0b41504a7/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"8","name":"Mix FM (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/mix.png","streamUrl":"http://50.7.77.114:8007/listen.pls","yourmuzeId":"0","state":"1"},
+{"number":"9","name":"The Voice of the Cape FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/voc.png","streamUrl":"https://edge.iono.fm/xice/voc_live_high.mp3","yourmuzeId":"0","state":"1"},
+{"number":"10","name":"Radio Islam","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/islam.png","streamUrl":"http://listen.radioislam.co.za:8080/radioislam.mp3.m3u","yourmuzeId":"0","state":"1"},
+{"number":"11","name":"Groot FM (Pretoria)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/groot-pretoria.png","streamUrl":"http://zas6.ndx.co.za:11000/stream/1/","yourmuzeId":"0","state":"1"}
 
 ],
 "country":{"id":"60","name":"oman","logo":"..\/..\/_upload\/_flags\/oman.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
