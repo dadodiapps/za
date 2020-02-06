@@ -13,15 +13,7 @@
 {"number":"8","name":"Mix FM (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/mix.png","streamUrl":"http://50.7.77.114:8007/listen.pls","yourmuzeId":"0","state":"1"},
 {"number":"9","name":"The Voice of the Cape FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/voc.png","streamUrl":"https://edge.iono.fm/xice/voc_live_high.mp3","yourmuzeId":"0","state":"1"},
 {"number":"10","name":"Radio Islam","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/islam.png","streamUrl":"http://listen.radioislam.co.za:8080/radioislam.mp3.m3u","yourmuzeId":"0","state":"1"},
-{"number":"11","name":"Groot FM (Pretoria)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/groot-pretoria.png","streamUrl":"http://zas6.ndx.co.za:11000/stream/1/","yourmuzeId":"0","state":"1"},
-{"number":"12","name":"Heart (Cape Town)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/heart.png","streamUrl":"https://albert.antfarm.co.za/heartfm/heartfm.stream/playlist.m3u8","yourmuzeId":"0","state":"1"},
-{"number":"13","name":"CCFM (Cape Town)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/ccfm.png","streamUrl":"https://edge.iono.fm/xice/69_medium.aac","yourmuzeId":"0","state":"1"},
-{"number":"14","name":"Cape Talk","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/cape-talk.png","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/CAPE_TALK_SC","yourmuzeId":"0","state":"1"},
-{"number":"15","name":"Pretoria FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/pretoria-fm.png","streamUrl":"http://capeant.antfarm.co.za:8000/ptafm","yourmuzeId":"0","state":"1"},
-{"number":"16","name":"Radio Rosestad (Bloemfontein)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/rosestad-bloemfontein.png","streamUrl":"http://196.250.216.30:8000/listen.pls?sid=1","yourmuzeId":"0","state":"1"},
-{"number":"17","name":"East Coast Radio (Durban)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/coast-durban.png","streamUrl":"https://edge.iono.fm/xice/ecr_live_medium.aac","yourmuzeId":"0","state":"1"},
-{"number":"18","name":"Gagasi FM (Durban)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/gagasi.png","streamUrl":"https://edge.iono.fm/xice/71_medium.mp3","yourmuzeId":"0","state":"1"},
-{"number":"19","name":"Motsweding (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/motsweding-johannesburg.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/97f660b5d3c949e094ca1d8c983551d2/playlist.m3u8","yourmuzeId":"0","state":"1"}
+{"number":"11","name":"Groot FM (Pretoria)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/groot-pretoria.png","streamUrl":"http://zas6.ndx.co.za:11000/stream/1/","yourmuzeId":"0","state":"1"}
   
 ],
 "country":{"id":"60","name":"oman","logo":"..\/..\/_upload\/_flags\/oman.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
