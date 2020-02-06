@@ -36,8 +36,17 @@
 {"number":"27","name":"Radio 786 (Cape Town)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/786-cape-town.png","streamUrl":"http://stream.krypton.co.za:8040/stream/1/","yourmuzeId":"0","state":"1"},
 {"number":"28","name":"Lotus FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/lotus.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/9d1c7019ff894e5191b954eff03d7c77/playlist.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"29","name":"Lesedi (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/lesedi.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/273707ee34a94d87a51c4785b48256a5/playlist.m3u8","yourmuzeId":"0","state":"1"},
-{"number":"30","name":"Bush Radio (Cape Town)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/bush.png","streamUrl":"http://85.25.164.35/;","yourmuzeId":"0","state":"1"}
+{"number":"30","name":"Bush Radio (Cape Town)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/bush.png","streamUrl":"http://85.25.164.35/;","yourmuzeId":"0","state":"1"},
 
+ 
+ {"number":"31","name":"Algoa FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/algoa.png","streamUrl":"https://edge.iono.fm/xice/54_medium.aac.m3u","yourmuzeId":"0","state":"1"},
+{"number":"32","name":"Ligwalagwala (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/ligwalagwala.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/568fc5738cce4434aa6db69e928084be/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"33","name":"OFM 94 97","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/ofm.png","streamUrl":"https://edge.iono.fm/xice/ofm_live_high.aac","yourmuzeId":"0","state":"1"},
+{"number":"34","name":"Ukhozi FM (Durban)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/ukhozi-durban.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/c04e80a90111477a88867b697e2203c0/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"35","name":"Munghana Lonene FM (Johannesburg)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/za/master/munghana-johannesburg.png","streamUrl":"https://proradiocloud.antfarm.co.za/ant-lre-sabc/14e03c487fa44d3686ff65f483373d62/playlist.m3u8","yourmuzeId":"0","state":"1"}
+
+ 
+ 
  
   
 ],
